@@ -36,8 +36,7 @@
 <table>
     <tbody>
         <tr>
-           <td><a href="#"><img alt="PHP" title="PHP" height="28px"
-                        src="" /></a>
+           <td>
             </td>
              <td><a href="#"><img alt="C#" title="C#" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
