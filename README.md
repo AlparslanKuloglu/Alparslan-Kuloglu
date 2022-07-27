@@ -1,28 +1,32 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Merhaba,ben Alparslan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Merhaba, Ben Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
   <a href="mailto:emregoc12asd@gmail.com"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-  <a href="https://www.linkedin.com/in/alparslan-kuloglu/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://github.com/AlparslanKuloglu"><img alt="GitHub" title="Follow me on Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/emre-goc/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://github.com/emregoc"><img alt="GitHub" title="Follow me on Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ## 📖 Hakkımda
 
-* 💻 javaScript teknolojileri üzerine kendimi geliştiriyorum.Node.js ve Express.js üzerine deneyim sahibiyim.
-* 🎨 Front-end tarafında da kendimi geliştiriyorum ve Full-stack developer olma yolunda ilerliyorum.
+* 💻 Full-stack geliştiri olma yolunda ilerliyorum.
+* 🎨 Front End tarafında React ve mobil tarafta ise iOS'da kendimi geliştiriyorum.
+* 📱 PHP(Laravel/Symfony) ile projeler üzerinde çalışıyorum.
+* 🎓 Yakın zamanda iOS'a başladım ve projeler geliştiriyorum.
+* 🌐 Bunların dışında birden fazla Programlama dilleri(C#, C, C++, Java, Matlab) hakkında Üniversite de eğitim aldım ve projeler geliştirdim.
 * 📺 Yazılım alanında pes etmeyen ve her zaman öğrenmeye devam eden bir yapıya sahibim.
 
 
 
-<h3 align="center">⬇ Repolarımı görmek için tıklayabilirsiniz  <a href="https://github.com/AlparslanKuloglu?tab=repositories">My repos</a>
+<h3 align="center">⬇ Repolarımı görmek için tıklayabilirsiniz  <a href="https://github.com/emregoc?tab=repositories">My repos</a>
 
 ## 🙋‍♂️ Instagram ve LinkedIn Adresim 
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alparslan-kuloglu/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/emregocc7?igshid=5i4bew6pqdoo"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/emre-goc/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!--<a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <!-- <a href="https://www.reddit.com/user/denvercoder1/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a> 
   <a href="https://jonahlawrence.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
