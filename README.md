@@ -37,8 +37,11 @@
 <table>
     <tbody>
         <tr>
-           
-           
+           <td><a href="#"><img alt="PHP" title="PHP" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
+            </td>
+             <td><a href="#"><img alt="C#" title="C#" height="28px"
+                        src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
@@ -48,26 +51,32 @@
             <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
             </td>
-         
+            <td><a href="#"><img alt="BootStrap" title="BootStrap" height="28px"
+                        src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png" /></a></td>
         </tr>
         <tr>
-         
-             <td><a href="#"><img alt="ExpressJS" title="ExpressJS" height="28px"
-                        src=" https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png" /></a>
-       
-            </td>      
-        
-         
+           <td><a href="#"><img alt="Symfony" title="Symfony" height="28px"
+                        src="https://symfony.com/logos/symfony_black_03.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Laravel" title="Laravel" height="28px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Java" title="Java" height="28px"
+                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td> 
+            <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
+                        src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
               <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-       
+             <td><a href="#"><img alt="C++" title="C++" height="28px"
+                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
             </td>           
         </tr>
         <tr>
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
-         
+            <td><a href="#"><img alt="Matlab" title="Matlab" height="28px"
+                        src="https://marka-logo.com/wp-content/uploads/2020/12/MATLAB-Logo.png" /></a></td>
             <td><a href="#"><img alt="Socket.io" title="Socket.io" height="28px"
                         src="https://socket.io/images/favicon.png" /></a></td>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio" height="28px"
