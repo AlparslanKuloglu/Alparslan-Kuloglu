@@ -1,25 +1,21 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Merhaba, Ben Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Merhaba, Ben Alparslan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="mailto:emregoc12asd@gmail.com"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-  <a href="https://www.linkedin.com/in/emre-goc/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://github.com/emregoc"><img alt="GitHub" title="Follow me on Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:alparslankuloglu1@gmail.com"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/alparslan-kuloglu/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://github.com/AlparslanKuloglu"><img alt="GitHub" title="Follow me on Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ## 📖 Hakkımda
 
-* 💻 Full-stack geliştiri olma yolunda ilerliyorum.
-* 🎨 Front End tarafında React ve mobil tarafta ise iOS'da kendimi geliştiriyorum.
-* 📱 PHP(Laravel/Symfony) ile projeler üzerinde çalışıyorum.
-* 🎓 Yakın zamanda iOS'a başladım ve projeler geliştiriyorum.
-* 🌐 Bunların dışında birden fazla Programlama dilleri(C#, C, C++, Java, Matlab) hakkında Üniversite de eğitim aldım ve projeler geliştirdim.
-* 📺 Yazılım alanında pes etmeyen ve her zaman öğrenmeye devam eden bir yapıya sahibim.
+* 💻 Back End Developerim.JavaScript teknolojilerileri üzerinde ilerliyorum.Node.js ve Express.js üzerine deneyim sahibiyim.
+* 🎨 Front End tarafında da kendimi geliştiriyorum ve Full-stack Developer olma yolunda ilerliyorum.
 
 
 
-<h3 align="center">⬇ Repolarımı görmek için tıklayabilirsiniz  <a href="https://github.com/emregoc?tab=repositories">My repos</a>
+<h3 align="center">⬇ Repolarımı görmek için tıklayabilirsiniz  <a href="https://github.com/AlparslanKuloglu?tab=repositories">My repos</a>
 
 ## 🙋‍♂️ Instagram ve LinkedIn Adresim 
 
