@@ -66,8 +66,7 @@
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
-            <td><a href="#"><img alt="Matlab" title="Matlab" height="28px"
-                        src="https://marka-logo.com/wp-content/uploads/2020/12/MATLAB-Logo.png" /></a></td>
+            <td></td>
             <td><a href="#"><img alt="Socket.io" title="Socket.io" height="28px"
                         src="https://socket.io/images/favicon.png" /></a></td>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio" height="28px"
@@ -85,12 +84,9 @@
              <td><a href="#"><img alt="PHPStorm" title="PHPStorm" height="28px"
                         src="https://logonoid.com/images/phpstorm-logo.png" /></a>
             </td>
-            <td><a href="#"><img alt="Brackets" title="Brackets" height="28px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" /></a></td>
-            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
-                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
+            <td></td>
+            <td></td>
+            <td></td>
             <td><a href="#"><img alt="Git" title="Git" height="28px"
                         src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" /></a></td>
         </tr>
