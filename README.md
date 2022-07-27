@@ -38,7 +38,8 @@
         <tr>
            <td>
             </td>
-             <td></td>
+             <td><a href="#"><img alt="MongoDB" title="MondoDB" height="28px"
+                        src="https://www.ictdemy.com/images/5728/mdb.png" /></a></td>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
