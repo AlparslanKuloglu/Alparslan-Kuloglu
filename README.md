@@ -38,8 +38,7 @@
         <tr>
            <td>
             </td>
-             <td><a href="#"><img alt="C#" title="C#" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
+             <td></td>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
@@ -49,24 +48,18 @@
             <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
             </td>
-            <td><a href="#"><img alt="BootStrap" title="BootStrap" height="28px"
-                        src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png" /></a></td>
+            <td></td>
         </tr>
         <tr>
-           <td><a href="#"><img alt="Symfony" title="Symfony" height="28px"
-                        src="https://symfony.com/logos/symfony_black_03.png" /></a>
+           <td>
             </td>
-            <td><a href="#"><img alt="Laravel" title="Laravel" height="28px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" /></a>
+            <td>
             </td>
-            <td><a href="#"><img alt="Java" title="Java" height="28px"
-                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td> 
-            <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
-                        src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
+            <td></td> 
+            <td></td>
               <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-             <td><a href="#"><img alt="C++" title="C++" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
+             <td></td>
             </td>           
         </tr>
         <tr>
